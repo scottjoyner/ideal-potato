@@ -1,5 +1,7 @@
 # 🦜🔗 Langchain - Quickstart App
 
+> **Legacy-source caution (2026-10-22):** The checked-in `streamlit_app.py` uses the older `langchain.llms.OpenAI` interface and accepts an API key through the Streamlit UI. Verify the pinned dependencies and the provider's supported interface before attempting to run it. Avoid sharing credentials in a publicly hosted or unreviewed app, and do not log user prompts or API tokens. This README edit did not execute a model request or perform deployment.
+
 <!-- repo-entrypoint-guide:start -->
 ## Repository guide
 
