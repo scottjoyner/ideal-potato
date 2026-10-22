@@ -1,9 +1,18 @@
 # 🦜🔗 Langchain - Quickstart App
 
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** This is a LangChain + Streamlit quickstart example, not a verified production AI service. Follow the original [Overview](#overview-of-the-app) and [Try out the app](#try-out-the-app) while checking the installed package versions.
-> 
-> **Privacy:** Never place an OpenAI API key in source code or an uploaded notebook. Review whether input text is sent to a hosted provider before testing with nonpublic data.
+## Repository guide
+
+**Repository context:** This is a LangChain + Streamlit quickstart example, not a verified production AI service. Follow the original [Overview](#overview-of-the-app) and [Try out the app](#try-out-the-app) while checking the installed package versions.
+
+**Privacy:** Never place an OpenAI API key in source code or an uploaded notebook. Review whether input text is sent to a hosted provider before testing with nonpublic data.
+
+### Find your way
+
+- [Overview of the App](#overview-of-the-app)
+- [Demo App](#demo-app)
+- [Get an OpenAI API key](#get-an-openai-api-key)
+- [Try out the app](#try-out-the-app)
 <!-- repo-entrypoint-guide:end -->
 
 
