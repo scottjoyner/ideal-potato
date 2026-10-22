@@ -1,5 +1,12 @@
 # 🦜🔗 Langchain - Quickstart App
 
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** This is a LangChain + Streamlit quickstart example, not a verified production AI service. Follow the original [Overview](#overview-of-the-app) and [Try out the app](#try-out-the-app) while checking the installed package versions.
+> 
+> **Privacy:** Never place an OpenAI API key in source code or an uploaded notebook. Review whether input text is sent to a hosted provider before testing with nonpublic data.
+<!-- repo-entrypoint-guide:end -->
+
+
 Build your first LLM powered app with Langchain and Streamlit.
 
 ## Overview of the App
